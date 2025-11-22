@@ -1,0 +1,19 @@
+# Web framework
+fastapi
+uvicorn[standard]
+
+# LangChain & LangGraph
+langchain
+langchain-openai
+langchain-core
+langgraph
+
+# Tavily search
+tavily-python
+
+# Settings and environment
+pydantic-settings
+python-dotenv
+
+# Type hints
+typing-extensions

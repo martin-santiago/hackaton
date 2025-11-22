@@ -1,0 +1,10 @@
+{
+  "python.formatting.provider": "autopep8",
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+  "python.analysis.extraPaths": ["${workspaceFolder}"],
+  "python.defaultInterpreterPath": "${workspaceFolder}/dibby/bin/python",
+  "python.languageServer": "Pylance"
+}

@@ -1,0 +1,7 @@
+"""
+Shared prompts.
+"""
+
+from prompts.search_agent import SEARCH_AGENT_DESCRIPTION, SEARCH_AGENT_SYSTEM_PROMPT
+
+__all__ = ["SEARCH_AGENT_SYSTEM_PROMPT", "SEARCH_AGENT_DESCRIPTION"]
